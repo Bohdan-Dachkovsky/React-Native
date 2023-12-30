@@ -9,16 +9,17 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@expo/webpack-config": "^0.12.82",
+    "@babel/runtime": "^7.23.7",
+    "@expo/webpack-config": "^0.12.52",
     "add": "^2.0.6",
-    "expo": "^50.0.0-canary-20231205-250b31f",
-    "expo-cli": "^3.27.14",
-    "expo-status-bar": "0.0.1-canary-20231205-250b31f",
+    "expo": "^44.0.6",
+    "expo-cli": "^6.3.10",
+    "expo-status-bar": "^1.6.0",
     "global": "^4.4.0",
     "node": "^21.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-native": "0.73.0-rc.8",
+    "react-native": "^0.72.6",
     "react-native-web": "~0.19.6"
   },
   "devDependencies": {
