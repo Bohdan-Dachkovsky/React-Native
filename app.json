@@ -20,7 +20,7 @@
         "resizeMode": "contain",
         "backgroundColor": "#020024",
         "image": "./assets/splash.png",
-        "@2x": "./assets/splash.png"
+        "@3x": "./assets/splash.png"
       }
     },
     "android": {
