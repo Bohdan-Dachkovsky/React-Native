@@ -10,12 +10,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <StatusBar />
-      <Image
-        style={styles.image}
-        src="./assets/splash.png"
-        placeholder={blurhash}
-        contentFit="cover"
-        transition={1000}
+
       <Text>{Constants.expoConfig.extra.headers} React Native</Text>
     </View>
   );
