@@ -9,7 +9,7 @@ if (NODE_ENV === "development") {
 export default function App() {
   return (
     <View style={styles.container}>
-      <StatusBar style="black" />
+      <StatusBar />
       <Text>{Constants.expoConfig.extra.headers} React Native</Text>
     </View>
   );
