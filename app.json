@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/super-snapper-sdTL4qTynfM-unsplash.jpg",
+      "image": "./assets/splash.png",
       "resizeMode": "contain"
     },
     "assetBundlePatterns": [
