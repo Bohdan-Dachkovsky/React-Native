@@ -1,6 +1,5 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
-import { StatusBar } from "expo-status-bar";
 import { NODE_ENV } from "@env";
 import Constants from "expo-constants";
 if (NODE_ENV === "development") {
@@ -12,7 +11,6 @@ export default function App() {
     <View style={styles.container}>
       <StatusBar style="black" />
       <Text>{Constants.expoConfig.extra.headers} React Native</Text>
-      <StatusBar style="auto" />
     </View>
   );
 }
