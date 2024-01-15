@@ -8,8 +8,7 @@
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/super-snapper-sdTL4qTynfM-unsplash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "./assets/super-snapper-sdTL4qTynfM-unsplash.png"
+      "resizeMode": "contain"
     },
     "assetBundlePatterns": [
       "**/*"
