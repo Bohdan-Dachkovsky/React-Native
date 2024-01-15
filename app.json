@@ -7,9 +7,9 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#020024",
-      "image": "./assets/splash.png"
+      "backgroundColor": "#020024"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -17,8 +17,10 @@
     "ios": {
       "supportsTablet": true,
       "splash": {
+        "resizeMode": "contain",
+        "backgroundColor": "#020024",
         "image": "./assets/splash.png",
-        "backgroundColor": "#020024"
+        "4@": "./assets/splash.png"
       }
     },
     "android": {
