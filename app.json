@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/super-snapper-sdTL4qTynfM-unsplash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "./assets/super-snapper-sdTL4qTynfM-unsplash.png"
     },
     "assetBundlePatterns": [
       "**/*"
